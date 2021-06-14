@@ -4,6 +4,7 @@ export default function App() {
     return (
         <div>
             App
+            <p>Blog posts go here</p>
         </div>
     )
 }
